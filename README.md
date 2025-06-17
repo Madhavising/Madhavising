@@ -14,7 +14,7 @@
 - 🛠️ I love working with: `React`, `Tailwind CSS`, `Node.js`, `MongoDB`, `Express`, `React Flow`.
 - 🌱 Side Projects: Interactive **Logic Circuit Simulator**, Course Website Templates, HR Settings Panel.
 - 💬 Ask me about: **Frontend Development, React Optimization, UI Design Patterns**
-- 📫 Reach me at: `youremail@example.com`
+- 📫 Reach me at: `[youremail@example.com](https://www.linkedin.com/in/madhavi-singh-31403921b)`
 - ⚡ Fun fact: I love clean UI, visual logic tools & explaining complex things simply.
 
 ---
