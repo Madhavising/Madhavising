@@ -118,6 +118,7 @@
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
+
 > *"Great software is built by those who understand both the machine and the human." – You someday 😉*
 
 <!--
