@@ -38,6 +38,10 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 
 #### 💡 Programming Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -87,6 +91,25 @@
 
 ---
 
+### 📅 Upcoming Roadmap
+
+- 🚀 Launch a **DevOps-ready portfolio starter kit**  
+- 🔧 Publish an **NPM package** for reusable React circuit editor  
+- 🎓 Start a blog on **UI patterns and deployment tricks**  
+- 🧪 Build a **Test Automation Dashboard** using Playwright
+
+---
+
+### 💬 What People Say
+
+> **“Madhavi's attention to detail and product quality is outstanding. Her UI skills really stand out.”**  
+> — *Mentor*
+
+> **“Delivered the full project scope before deadline and documented everything neatly.”**  
+> — *Client*
+
+---
+
 ### 📫 Let’s Connect!
 
 - 🌐 [Portfolio](https://my-portfoliobymadhavisingh.vercel.app/)
@@ -95,6 +118,7 @@
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
+> *"Great software is built by those who understand both the machine and the human." – You someday 😉*
 
 <!--
 **Madhavising/Madhavising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
