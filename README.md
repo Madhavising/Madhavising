@@ -87,16 +87,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavising&show_icons=true&theme=radical" alt="github stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavising&theme=radical" alt="streak stats"/>
-</p>
-
----
-
 ### 📫 Let’s Connect!
 
 - 🌐 [Portfolio](https://my-portfoliobymadhavisingh.vercel.app/)
