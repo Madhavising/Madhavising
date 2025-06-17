@@ -10,7 +10,7 @@
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently building: **VerifHR Management System** – an HR tool with onboarding, approval flows & dashboards.
-- 🧠 I’m currently learning: **CI/CD Pipelines, Docker, GitHub Actions** and more DevOps practices.
+- 🧠 I’m currently learning: **CI/CD Pipelines, Docker, GitHub Actions**, and more DevOps practices.
 - 🛠️ I love working with: `React`, `Tailwind CSS`, `Node.js`, `MongoDB`, `Express`, `React Flow`.
 - 🌱 Side Projects: Interactive **Logic Circuit Simulator**, Course Website Templates, HR Settings Panel.
 - 💬 Ask me about: **Frontend Development, React Optimization, UI Design Patterns**
@@ -32,14 +32,43 @@
 
 ### 🔥 Featured Projects
 
-#### 🔹 [Logic Circuit Simulator](https://github.com/madhavising/logic-circuit-sim)
-> A visual drag-and-drop tool to build logic gates, simulate circuits, and generate truth tables using React + React Flow.
+#### 🔹 [🧠 Logic Circuit Simulator](https://github.com/madhavising/logic-circuit-sim)  
+> 🛠 Drag & drop logic gates, connect wires, and watch your circuits come alive — in real time!  
+> 🧮 Includes live simulation, LED outputs, and truth table generation.  
+> 🚀 Built with **React + React Flow**  
+> 👉 Perfect for students, educators, and visual learners.
 
-#### 🔹 [VerifHR Management System](https://github.com/madhavising/verifhr)
-> A full-stack HR tool with candidate approval flows, dashboards, onboarding steps, and settings panel.
+---
 
-#### 🔹 [Course Website Template](https://github.com/madhavising/Log)
-> A clean & responsive template for course platforms built with React + Tailwind CSS.
+#### 🔹 [👩‍💼 VerifHR Management System](https://github.com/Madhavising/Andgate_Informatics)  
+> ✅ A role-based HR tool that streamlines employee onboarding, approvals, and admin control.  
+> 👥 Switch between HR and candidate roles with separate dashboards.  
+> 📋 Includes candidate forms, email status, approvals, and credentials generation.  
+> 💡 Designed for real-world HR workflow simulation.
+
+---
+
+#### 🔹 [📚 LogixK9 – Course Website Template](https://github.com/Madhavising/LogixK9)  
+> 🎓 Want to launch your own learning platform? This one’s ready-to-use!  
+> 💅 Responsive, modern, and clean design with reusable course components.  
+> 🎨 Easy to customize — just plug in your own content.  
+> 🌐 [Live Demo](https://logix-k9.vercel.app/)
+
+---
+
+#### 🔹 [🏥 Hospital Management System](https://github.com/Madhavising/Hospital_Management_System)  
+> 🩺 Manage patients, doctors, appointments, and records — all in one place.  
+> 🔐 Role-based access: Admins, Doctors, and Patients each have their own dashboard.  
+> 💻 Built using **React + Node.js + MongoDB + Tailwind CSS**  
+> 🌐 [Try the Live Demo](https://zeecare-cwm.netlify.app/)
+
+---
+
+#### 🔹 [🏢 ABC Info Tech Company Website](https://github.com/Madhavising/ABC-InfoTech)  
+> 🌟 A modern company portfolio site to showcase services, teams, and tech.  
+> 📱 Fully responsive and mobile-friendly with beautiful animations.  
+> 📩 Includes working contact form, about section, and team cards.  
+> 🌐 [Visit Live Site](https://abc-info-tech.vercel.app/)
 
 ---
 
@@ -55,27 +84,13 @@
 
 ### 📫 Let’s Connect!
 
-- 🌐 [Portfolio](https://yourportfolio.com) (optional)
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 💌 Email: `youremail@example.com`
+- 🌐 [Portfolio](https://my-portfoliobymadhavisingh.vercel.app/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/madhavi-singh-31403921b)
 
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
 
-
-
 <!--
 **Madhavising/Madhavising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
