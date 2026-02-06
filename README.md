@@ -112,7 +112,7 @@
 
 ### 📫 Let’s Connect!
 
-- 🌐 [Portfolio](https://my-portfoliobymadhavisingh.vercel.app/)
+- 🌐 [Portfolio](https://madhavi-portfolioo.vercel.app/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/madhavi-singh-31403921b)
 
 ---
